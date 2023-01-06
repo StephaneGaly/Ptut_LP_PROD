@@ -8,6 +8,11 @@ Ensuite le preprocessing PART 2 contient les requêtes SQL permettant d'associer
 
 Pour finir la base de données finale indexée et "Normalement" prête à l'emploi avec le site web et l'API REST le front-end du site est peu élaboré l'accent ayant été mis sur le côté fonctionnel.
 
+WAMP a été utilisé pour le serveur web tournant sur une VM W10
+
+Crédit à Axel Dablanc co-auteur de ce projet
+Ainsi qu'a Grabriel Ringue pour la partie front-end
+anciens étudiants de la LP GTIDM
 
 # Ptut_LP_PROD
 
@@ -19,16 +24,7 @@ Then PART 2 preprocessing contains the SQL queries allowing each series to be as
 
 Finally, the final database indexed and "Normally" ready to use with the website and the REST API, the front-end of the site is not very elaborate, the emphasis having been placed on the functional side.
 
-
-
-WAMP a été utilisé pour le serveur web tournant sur une VM W10
-
 WAMP was used for the web server running on a W10 VM
-
-
-Crédit à Axel Dablanc co-auteur de ce projet
-Ainsi qu'a Grabriel Ringue pour la partie front-end
-anciens étudiants de la LP GTIDM
 
 Credit to Axel Dablanc co-author of this project
 As well as Grabriel Ringue for the front-end part
